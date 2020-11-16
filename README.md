@@ -2,7 +2,7 @@
 
 <!--
 **yantiq/yantiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Per aspera ad Astra
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
